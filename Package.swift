@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "libkiwix",
-            url: "https://tmp.kiwix.org/ci/libkiwix-2.3.1.xcframework.zip",
+            url: "https://tmp.kiwix.org/ci/libkiwix-13.0.0-1.xcframework.zip",
             checksum: "0577e5a585835e7c7edcfe4cc169ae2ee1b3295904a5e3ce996d631746ed52d4")
     ]
 )
